@@ -22,8 +22,8 @@ The project includes **interactive dashboards** for:
 
 ## Technologies Used
 - **Tableau** (Visualization)
-- **SQL/MySQL** (Data Processing)
-- **Excel/Python** (Data Cleaning)
+
+- **Python** (Data Cleaning)
 
 ## How to Access the Dashboard
 - The Tableau dashboard can be accessed via **[link-to-dashboard]**.
